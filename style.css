@@ -1,0 +1,84 @@
+/* 
+
+     ============================================================
+      
+          _____________   ^^^^^^^^^^    ____________________
+
+[   By ~Aryan Maurya Mr.perfect https://amsrportfolio.netlify.app  ]
+
+          _____________   ^^^^^^^^^^    ____________________
+
+     ============================================================
+
+*/
+
+body{
+    margin: 0;
+    overflow: hidden;
+}
+canvas{
+    height: 100%;
+    width: 100%;
+}
+
+.swal-overlay {
+    background-color: rgba(255, 255, 255, 0.25);
+}
+.swal-modal {
+    background-color: rgba(64, 255, 119, 0.67);
+}
+.swal-title {
+    color: #ffffff;
+    font-size: 26px;
+    margin: 0px;
+    padding: 0px;
+    padding-bottom: 16px;
+}
+.swal-text {
+    padding: 0px;
+    text-align: center;
+    color: #ffffff;
+    font-size: 16px;
+}
+.swal-footer {
+    overflow: hidden;
+}
+.swal-button--confirm {
+    font-size: 12px;
+    padding: 7px 19px;
+    border-radius: 8px;
+    background-color: rgb(75, 205, 243);
+    color: #ffffff;
+    border: 1px solid #ffffff;
+}
+.swal-button--confirm:hover {
+    color: rgb(64, 255, 119);
+}
+.swal-button--cancel {
+    font-size: 12px;
+    padding: 7px 19px;
+    border-radius: 8px;
+    background-color: rgb(255, 0, 0);
+    color: #ffffff;
+    border: 1px solid #ffffff;
+}
+.swal-button--cancel:hover {
+    color: rgb(255, 0, 0);
+}
+.swal-button--cancel:focus {
+    box-shadow: none;
+}
+
+/* 
+
+     ============================================================
+      
+          _____________   ^^^^^^^^^^    ____________________
+
+[   By ~Aryan Maurya Mr.perfect https://amsrportfolio.netlify.app  ]
+
+          _____________   ^^^^^^^^^^    ____________________
+
+     ============================================================
+
+*/

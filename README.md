@@ -4,7 +4,7 @@ Join the adorable Fluffy Parrot on a fun-filled adventure in the Fluffy Parrot G
 
 ## Play the Game
 
-[Play Now](https://your-username.github.io/fluffy-parrot-game/) 🕹️
+[Play Now](https://aryan0-1maurya.github.io/fluffy-parrot/) 🕹️
 
 ## About the Game
 
